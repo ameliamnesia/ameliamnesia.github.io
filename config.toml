@@ -1,0 +1,4 @@
+baseURL = 'https://ameliamnesia.github.io/'
+languageCode = 'en-us'
+title = 'Mameliamnesia.xyz'
+theme = 'PaperMod'
