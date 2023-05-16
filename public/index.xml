@@ -20,15 +20,6 @@ This is where my key will go!</description>
     
     <item>
       <title>Contacts</title>
-      <link>https://ameliamnesia.github.io/posts/about/</link>
-      <pubDate>Sun, 20 Nov 2022 09:03:20 -0800</pubDate>
-      
-      <guid>https://ameliamnesia.github.io/posts/about/</guid>
-      <description>Introduction some stuf abput me</description>
-    </item>
-    
-    <item>
-      <title>Contacts</title>
       <link>https://ameliamnesia.github.io/posts/contact/</link>
       <pubDate>Sun, 20 Nov 2022 09:03:20 -0800</pubDate>
       
@@ -36,6 +27,15 @@ This is where my key will go!</description>
       <description>Introduction This is bold text, and this is emphasized text.
 Visit the Hugo website!
 Find me on bluesky at @ameliamnesia.xyz</description>
+    </item>
+    
+    <item>
+      <title>Contacts</title>
+      <link>https://ameliamnesia.github.io/posts/about/</link>
+      <pubDate>Thu, 20 Oct 2022 09:03:20 -0800</pubDate>
+      
+      <guid>https://ameliamnesia.github.io/posts/about/</guid>
+      <description>Introduction some stuf abput me</description>
     </item>
     
   </channel>
