@@ -3,3 +3,6 @@ languageCode = 'en-us'
 title = 'ameliamnesia'
 theme = 'huguette'
 relativeURLs = 'True'
+
+[params]
+css = true
