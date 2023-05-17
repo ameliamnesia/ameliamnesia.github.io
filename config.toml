@@ -1,4 +1,5 @@
 baseURL = 'https://info.ameliamnesia.xyz/'
 languageCode = 'en-us'
 title = 'ameliamnesia'
-theme = 'arberia'
+theme = 'huguette'
+relativeURLs = 'True'

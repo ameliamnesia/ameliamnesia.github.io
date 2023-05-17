@@ -1,7 +1,6 @@
 ---
 title: "Contacts"
-date: 2022-11-20T09:03:20-08:00
-menu: main
+date: 2020-10-15T20:58:53+02:00
 ---
 
 find me on bluesky at @ameliamnesia.xyz or simply go to [https://ameliamnesia.xyz](https://ameliamnesia.xyz "https://ameliamnesia.xyz")!
