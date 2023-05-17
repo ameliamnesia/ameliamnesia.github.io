@@ -1,4 +1,4 @@
 baseURL = 'https://info.ameliamnesia.xyz/'
 languageCode = 'en-us'
 title = 'ameliamnesia info'
-theme = 'PaperMod'
+theme = 'hugo-blog-awesome'
