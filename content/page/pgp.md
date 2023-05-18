@@ -1,6 +1,7 @@
 ---
 title: "PGP"
 date: 2020-10-15T20:58:53+02:00
+menu: main
 ---
 
 -----BEGIN PGP PUBLIC KEY BLOCK-----
