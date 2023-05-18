@@ -1,4 +1,11 @@
 baseURL = 'https://info.ameliamnesia.xyz/'
 languageCode = 'en-us'
 title = 'ameliamnesia'
-theme = 'hugo-simplecss'
+theme = 'spaced-blog'
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
