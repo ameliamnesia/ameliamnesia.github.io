@@ -1,7 +1,7 @@
 baseURL = 'https://info.ameliamnesia.xyz/'
 languageCode = 'en-us'
 title = 'ameliamnesia'
-theme = 'spaced-blog'
+theme = 'hugo-cat'
 
 [menu]
   [[menu.main]]
