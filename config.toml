@@ -1,7 +1,10 @@
 baseURL = 'https://info.ameliamnesia.xyz/'
 languageCode = 'en-us'
 title = 'ameliamnesia'
-theme = 'hugo-arcana'
+theme = 'hugo-tikva'
+
+[params.theme.header]
+image = 'img/header_bg.jpg' # Use header image. This option is only valid if the theme is configured to the "header" style.
 
 [menu]
   [[menu.main]]
