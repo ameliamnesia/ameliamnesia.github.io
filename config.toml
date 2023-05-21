@@ -7,6 +7,9 @@ theme = 'hugo-tikva'
 [params.navbar]
     style = "header" 
     colorScheme = "navbar-light"
+    bgScheme = "bg-primary" # see Bootstrap docs, bg.* utilities https://getbootstrap.com/docs/4.1/utilities/colors/
+    
+    backgroundColor = ''
 
 [params.theme]
 
