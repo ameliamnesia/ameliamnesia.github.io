@@ -3,12 +3,13 @@ languageCode = 'en-us'
 title = 'ameliamnesia'
 theme = 'hugo-tikva'
 
-[params.theme]
-
-    bootstrapTheme = 'minty'
 
 [params.navbar]
     style = "header" 
+
+[params.theme]
+
+    bootstrapTheme = 'minty'
 
 [params.theme.header]
 image = 'img/header_bg.jpg' # Use header image. This option is only valid if the theme is configured to the "header" style.
