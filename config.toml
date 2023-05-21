@@ -18,6 +18,10 @@ theme = 'hugo-tikva'
 
 
 [params.theme.header]
+    # The following options are mostly used when the navbar is in "header" mode, i.e. not fixed-top
+    fontColor = '' # header font color, leave empty for default
+    linkColor = '' # header link color, leave empty for default
+    backgroundColor = '' # header background color, leave empty for default
 image = 'img/header_bg.jpg' # Use header image. This option is only valid if the theme is configured to the "header" style.
 
 [menu]
