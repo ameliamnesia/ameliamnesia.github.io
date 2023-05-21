@@ -13,7 +13,7 @@ theme = 'hugo-tikva'
 
 [params.theme]
 
-    bootstrapTheme = 'slate'
+    bootstrapTheme = 'darkly'
     backgroundColor = '' # If color is set, it will be used for background. Set empty for default.
 
 
@@ -23,6 +23,16 @@ theme = 'hugo-tikva'
     linkColor = '' # header link color, leave empty for default
     backgroundColor = '' # header background color, leave empty for default
 image = 'img/header_bg.jpg' # Use header image. This option is only valid if the theme is configured to the "header" style.
+
+[params.sidebar]
+    enabled = true # default false; set to true to enable sidebar
+    style = 'right' # options: 'left', 'right'. Left means sidebar on the left side, right displays the sidebar on the right side
+
+    [[params.sidebar.demoColumn]]
+    title = 'Example Content'
+
+[params.fonts]
+    navbarVariant = '800' # See above
 
 [menu]
   [[menu.main]]

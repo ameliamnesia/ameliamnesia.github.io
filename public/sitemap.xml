@@ -8,9 +8,6 @@
     <loc>https://info.ameliamnesia.xyz/post/about/</loc>
     <lastmod>2020-10-15T20:58:53+02:00</lastmod>
   </url><url>
-    <loc>https://info.ameliamnesia.xyz/</loc>
-    <lastmod>2020-10-15T20:58:53+02:00</lastmod>
-  </url><url>
     <loc>https://info.ameliamnesia.xyz/page/contact/</loc>
     <lastmod>2020-10-15T20:58:53+02:00</lastmod>
   </url><url>
@@ -53,6 +50,11 @@
     <loc>https://info.ameliamnesia.xyz/posts/first/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://info.ameliamnesia.xyz/</loc>
+    <lastmod>2018-11-04T21:52:00+01:00</lastmod>
+  </url><url>
     <loc>https://info.ameliamnesia.xyz/categories/</loc>
+  </url><url>
+    <loc>https://info.ameliamnesia.xyz/sections/</loc>
   </url>
 </urlset>
