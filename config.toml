@@ -9,7 +9,7 @@ theme = 'hugo-tikva'
 
 [params.theme]
 
-    bootstrapTheme = 'minty'
+    bootstrapTheme = 'darkly'
     backgroundColor = '' # If color is set, it will be used for background. Set empty for default.
 
 
