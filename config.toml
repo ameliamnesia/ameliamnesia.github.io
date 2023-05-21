@@ -6,6 +6,7 @@ theme = 'hugo-tikva'
 
 [params.navbar]
     style = "header" 
+    colorScheme = "navbar-light"
 
 [params.theme]
 
