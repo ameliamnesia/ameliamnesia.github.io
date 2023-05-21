@@ -6,14 +6,14 @@ theme = 'hugo-tikva'
 
 [params.navbar]
     style = "header" 
-    colorScheme = "navbar-light"
+    colorScheme = "navbar-dark"
     bgScheme = "bg-primary" # see Bootstrap docs, bg.* utilities https://getbootstrap.com/docs/4.1/utilities/colors/
     
     backgroundColor = ''
 
 [params.theme]
 
-    bootstrapTheme = 'darkly'
+    bootstrapTheme = 'slate'
     backgroundColor = '' # If color is set, it will be used for background. Set empty for default.
 
 
